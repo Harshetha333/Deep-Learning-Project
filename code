@@ -1,0 +1,4 @@
+├── code/
+│   ├── main_code.ipynb        # Main notebook with model training and evaluation
+│   ├── deploy.py              # Deployment script for real-time object detection
+│   └── best.pt                # Trained YOLO model
